@@ -1,9 +1,6 @@
 //
 //  Ball.hpp
 //  Ping Pong (raylib)
-//
-//  Created by Khutso on 2025/01/21.
-//
 
 #ifndef Ball_hpp
 #define Ball_hpp
