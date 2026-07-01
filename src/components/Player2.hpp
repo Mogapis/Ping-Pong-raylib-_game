@@ -1,9 +1,7 @@
 //
 //  Player2.hpp
 //  Ping Pong (raylib)
-//
-//  Created by Khutso on 2025/01/21.
-//
+
 
 #ifndef Player2_hpp
 #define Player2_hpp
