@@ -1,9 +1,6 @@
 //
 //  Paddle.hpp
 //  Ping Pong (raylib)
-//
-//  Created by Khutso on 2025/01/21.
-//
 
 #ifndef Paddle_hpp
 #define Paddle_hpp
