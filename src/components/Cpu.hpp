@@ -1,9 +1,6 @@
 //
 //  Cpu.hpp
 //  Ping Pong (raylib)
-//
-//  Created by Khutso on 2025/01/21.
-//
 
 #ifndef Cpu_hpp
 #define Cpu_hpp
