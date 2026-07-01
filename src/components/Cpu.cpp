@@ -1,9 +1,7 @@
 //
 //  Cpu.cpp
 //  Ping Pong (raylib)
-//
-//  Created by Khutso on 2025/01/21.
-//
+
 
 #include "Cpu.hpp"
 
