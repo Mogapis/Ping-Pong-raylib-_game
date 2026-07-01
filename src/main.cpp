@@ -56,8 +56,8 @@ int main(int argc, const char * argv[]) {
     
     cout << "----- Welcome to ME Pong Menu -----\n\n";
     
-    const int screen_width = 1280; // Change this to 1280/1920 at the end of creating the game
-    const int screen_height = 800; // Change this to 800/1080 at the end of creating the game
+    const int screen_width = 1280;
+    const int screen_height = 800; 
     
     InitWindow(screen_width, screen_height, "ME Pong");
     InitAudioDevice();
